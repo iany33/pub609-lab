@@ -1,0 +1,84 @@
+# Pool Water Chemistry {#sec-chemistry}
+
+The first lab will consist of two components conducted over two separate weeks. The first part will consist of self-directed viewing of a series of online videos about how to use pool (and spa) water test kits to evaluate water chemistry. This portion of the lab will be completed by students remotely. The second part of this lab will consist of in-lab activities using the test kits for a simulated pool water scenario.
+
+## Online Videos about How to Use Pool Test Kits for Water Chemistry
+
+During this week, you will watch a series of six online videos about how to take a pool water sample and how to test for pH, total alkalinity, and calcium hardness using two different types of commonly used pool water test kits: [Taylor's K-2006 Complete Kit with FAS-DPD](https://www.lowryassociates.ca/product-details.php?id=27) and the [Pool eXact EZ Photometer Kit](https://sensafe.com/pool-exact-ez-photometer-with-bluetooth-starter-kit/). 
+
+The **Taylor K-2006 Kit** uses a collection of liquid reagents to test for different pool water chemistry and disinfection parameters. pH is evaluated by adding phenol red to the sample and using a colour comparator block. Total alkalinity and calcium hardness are evaluated using titration methods. In Canada, Taylor test kits are distributed exclusively by [Lowry and Associates](https://www.lowryassociates.ca/). 
+
+![Taylor K-2006 Pool Water Test Kit](images/taylor_kit.jpg)
+
+The **eXact EZ Photometer** uses test strip reagents added to a pool water sample to determine exact quantitative values of chemistry and disinfection parameters. All parameters are evaluated using the built-in photometer.
+
+![eXact EZ Photometer](images/exact_device.jpg)
+
+Students should watch the following six videos before the in-person lab session (described below):
+
+- [How to Take a Pool/Spa Water Sample](https://youtu.be/77gW_a053Tg) 
+-	[Testing Pool/Spa Water for pH using Taylor’s K-2006](https://youtu.be/hsbXELyKJI8) 
+-	[Testing Pool/Spa Water for Total Alkalinity using Taylor’s K-2006 Kit](https://youtu.be/llMxe7bZDpk) 
+-	[Testing Pool/Spa Water for Calcium Hardness using Taylor’s K-2006 Kit](https://youtu.be/ZBtvZmBvR-8) 
+-	[Testing for pH using the eXact Pool EZ Kit](https://youtu.be/Hnstg_Y5H3) 
+-	[Testing for Total Alkalinity using the eXact Pool EZ Kit](https://youtu.be/nJVxNjUyzp0)
+
+
+## Lab Session on Pool Water Chemistry
+
+For the first in-person lab session, students will create simulated pool water to practice evaluating water chemistry parameters. Follow the detailed instructions below. 
+
+**Step 1:** 
+Create a simulated swimming pool environment by filling your plastic container with 4L of City of Toronto tap water from the lab. 
+
+**Step 2:**
+Starting by using the Taylor test kit, you will now test your simulated pool water for its pH, total alkalinity, and calcium hardness and the record results. 
+
+To test for pH:
+
+* fill the large tube to the 44 mL mark with the water sample;
+* add 5 drops of `R-0004`, cap the tube, invert and mix;
+* Match the colour with the comparator block and record to the nearest pH unit (if the colour is between two values, take the average pH).
+
+To test for total alkalinity:
+
+* fill the large tube to the 25 mL mark with the water sample;
+* add 2 drops of `R-0007`, then swirl to mix;
+* add 5 drops `R-0008`, then swirl to mix (the sample should turn green);
+* add `R-0009` dropwise, swirling and counting after each drop, until the colour changes from green to red;
+* multiply the number of drops added by 10 and record the result as ppm of total alkalinity.
+
+To test for calcium hardness:
+
+* fill the large tube to the 25 mL mark with the water sample;
+* add 20 drops of `R-0010`, then swirl to mix;
+* add 5 drops of `R-0011L`, then Swirl to mix (if calcium hardness is present, the sample will turn red);
+* add `R-0012` dropwise, swirling and counting after each drop, until the colour changes from red to blue;
+* multiply the number of drops added by 10 and record the result as ppm of calcium hardness.
+
+Now, you will use the EZ eXact Kit to compare results for **one** of the three parameters you tested above (you can pick any one of the three parameters to compare). The instructions are the same for all parameters:
+
+* rinse the cell with a brush and 3 times with the water; 
+* select the test from the `MENU`; 
+* cap the cell and press `ZERO/ON`; 
+* obtain the appropriate test strip; 
+* press `READ` and simultaneously dip the strip in the sample while using a back and forth motion (2 strokes per second) until the timer says `1`;
+* cap the cell and press `READ` to view the results;
+* rinse the cell before conducting further tests.
+
+**Step 3:**
+To simulate the effect of bather load on these parameters, add ## of ammonia solution to the water and mix thoroughly. Now measure the pH and total alkalinity again using **one** of the two test kits, and record your results. 
+
+## Pool Water Chemistry Lab Assignment
+
+Write an individual lab report for this session by answering the following questions. Your report should be approximately 400-500 words. 
+
+1. Describe the water chemistry results you obtained from the City of Toronto tap water. Were the parameters within the regulated range as specified in [O. Reg. 565](https://www.ontario.ca/laws/regulation/900565)? Were the parameters within the recommended ranges as discussed in the course lecture materials? How did the two test kits compare for the parameter you tested using both kits? Present your results in a table and provide a brief written summary to answer these questions.
+
+2. Assuming that the pool water temperature was 26°C and total dissolved solids were <1000 ppm, calculate the water balance using the Langelier Saturation Index formula (if your measured total alkalinity and calcium hardness values do not line up exactly with those on the conversion factor table, you can approximate the likely value rounded to the nearest 0.05). Show your formula calculations. Is the pool in balance? If not, what parameters should be adjusted and how should they be adjusted?
+
+3. What impact did adding the ammonia product have on the pH and total alkalinity? Provide another table to show the updated values of these parameters and discuss any differences between the two measurements. What do these results tell you about the impact of bather load on water chemistry?
+
+
+
+

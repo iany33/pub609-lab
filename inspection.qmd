@@ -1,0 +1,31 @@
+# Pool Inspection Scenario
+
+This lab week will consist of watching an online video of a simulated inspection scenario of the Toronto Metropolitan University swimming pool. This activity can be completed remotely. The online video consists of two versions: one is a 360-degree video optimized for virtual reality (VR) viewing, while the other is a traditional 2D video that provides some additional close-up shots not present in the VR version. The inspection scenario will allow you to gain experience in conducting a swimming pool inspection and making recommendations to the operator based on key observations. 
+
+![](https://www.torontomu.ca/content/dam/recreation/Facilities/Pool3.jpg)
+
+## Online Video
+
+Students are expected to watch one of the two versions of the video. For the VR version, ideally this can be watched using a VR headset device, but otherwise you can also use your phone or tablet and move the device around while watching to simulate the 360-degree experience. The videos are provided below:
+
+- [360-degree/VR Video](https://youtu.be/boVwhRMv0H0)
+- [2D Video](https://youtu.be/jlmrKu9cobc)
+
+While watching the video, record information on the following items:
+
+1. Pool safety equipment and signage (e.g., availability, location, condition)
+2. Pool clarity and facility cleanliness (e.g., black disc, sanitation, other hazards)
+3. Supervision and operation requirements (e.g., lifeguards, record keeping)
+4. Recirculation system and chemical storage
+
+## Pool Inspection Scenario Lab Assignment
+
+Based on the notes you took above while watching the inspection scenario video, students will prepare an individual lab assignment to answer the following questions. As with previous reports, please aim for 400-500 words. Additionally, in this report, you must reference a relevant peer-reviewed journal article in [APA format](https://learn.library.torontomu.ca/Research/apa-style).
+
+1. Describe one key observation or infraction identified in the video for each of the four categories mentioned above. I.e., you should describe at least one element related to pool safety equipment and signage, pool clarity and facility cleanliness, supervision and operation requirements, and the recirculation system or chemical storage. 
+
+2. For each observation or infraction identified, describe how the finding relates to the requirements of [O. Reg. 565](https://www.ontario.ca/laws/regulation/900565) and any other recommendations noted in the course lecture materials. What are the potential public health hazards or risks associated with these observations? Additionally, what specific follow-up actions can or should the operator undertake to reduce any possible hazards or risks?
+
+
+
+

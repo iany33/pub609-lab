@@ -1,0 +1,8 @@
+
+# Overview {.unnumbered}
+
+This is the course laboratory manual for **PUB609 Water Quality II** in the School of Occupational and Public Health, Toronto Metropolitan University. This e-book was prepared using [Quarto](https://quarto.org/docs/books/) in [RStudio (Posit)](https://posit.co/).
+
+This book is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means you are free to share and adapt this material in any format or medium, as long as appropriate credit is given, a link to the license is provided, the material is used for non-commercial purposes, and any shared or adapted work is distributed under the same license.
+
+![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

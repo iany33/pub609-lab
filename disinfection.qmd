@@ -1,0 +1,79 @@
+# Pool Water Disinfection {#sec-disinfection}
+
+The second lab will consist of two components conducted over two separate weeks. The first part will consist of self-directed viewing of a series of online videos about how to use pool (and spa) water test kits to evaluate water disinfectant (chlorine) levels. Similar to the prior lab on [Pool Water Chemistry](chemistry.qmd), this portion of the lab will be completed by students remotely. The second part of this lab will consist of in-lab activities using the test kits for another simulated pool water scenario.
+
+## Online Videos about How to Use Pool Test Kits for Water Disinfectant Levels
+
+You will watch a series of three online videos about how to test pool water for free available chlorine and combined chlorine using both the [Taylor K-2006 Complete Kit with FAS-DPD](https://www.lowryassociates.ca/product-details.php?id=27) and the [Pool eXact EZ Photometer Kit](https://sensafe.com/pool-exact-ez-photometer-with-bluetooth-starter-kit/).
+
+The **Taylor K-2006 Kit** tests for free available and combined chlorine using the FAS-DPD titration method, which allows testing for these parameters to a level as low as 0.2 ppm.
+
+The **eXact EZ Photometer** uses test strip reagents added to a pool water sample to determine exact quantitative values of both parameters.
+
+Students should watch the following videos before the in-person lab session (described below):
+
+-   [Testing Pool/Spa Water for Free and Combined Chlorine using Taylor's K-2006 with FAS-DPD](https://youtu.be/jxkfYecBzVw)
+-   [Testing for Free Chlorine using the eXact Pool EZ Kit](https://youtu.be/uIqG1QesELg)
+-   [Testing for Combined Chlorine using the eXact Pool EZ Kit](https://youtu.be/bduPL2pFOQI)
+-   [Testing Pool/Spa Water for Cyanuric Acid](https://youtu.be/5_5EmE2KEqI)
+
+## Lab Session on Pool Water Disinfection
+
+For this in-person lab session, students will create simulated pool water to evaluate free available and combined chlorine levels. Follow the detailed instructions below.
+
+**Step 1:** Create a simulated swimming pool environment by filling your plastic container with 4L of City of Toronto tap water from the lab.
+
+**Step 2:** Using the two test kits, you will now test your simulated pool water for its free available chlorine level and the record results.
+
+To test for free available chlorine using the Taylor kit kit:
+
+-   fill the large tube to the 25 mL mark with the water sample;
+-   add 2 drops of `R-0870`, then swirl to mix (the sample should turn pink);
+-   add `R-0871` dropwise, swirling and counting after each drop, until the colour changes from pink to colourless;
+-   multiply the number of drops added by 0.2 and record the result as ppm of free available chlorine.
+
+To test for free available chlorine using the EZ eXact kit:
+
+-   rinse the cell with a brush and 3 times with the water;
+-   select the test from the `MENU`;
+-   cap the cell and press `ZERO/ON`;
+-   obtain the CL (DPD-1) test strip;
+-   press `READ` and simultaneously dip the strip in the sample while using a back and forth motion (2 strokes per second) until the timer says `1`;
+-   cap the cell and press `READ` to view the results as ppm of free available chlorine;;
+-   rinse the cell before conducting further tests.
+
+**Step 3:** Based on your results above, you will now add a set amount of liquid chlorine (bleach) to your simulated pool water to increase the free available chlorine level to 4 ppm. Use the [Public Health Ontario Online Dilution Calculator](https://www.publichealthontario.ca/en/health-topics/environmental-occupational-health/water-quality/chlorine-dilution-calculator) to determine the amount of bleach you need to add.
+
+For example, if you measured a free available chlorine level of 1 ppm in the above step, you would set the calculator for a desired level of 3 ppm to equate to 4 ppm total.
+
+Add the necessary amount of bleach and mix the water thoroughly.
+
+**Step 4:** To simulate the effect of bather load on the chlorine levels, add ammonia solution to the water and mix thoroughly. Now using **one** of the two kits measure the free available chlorine level again as per above. However, this time, do not discard your sample after conducting the test, continue with the following steps below to determine the combined chlorine level.
+
+To test for combined chlorine using the Taylor kit kit:
+
+-   add 5 drops of `R-0003` to your free available chlorine sample and swirl to mix (the sample should turn pink if combined chlorine is present);
+-   add `R-0871` dropwise, swirling and counting after each drop, until the colour changes from pink to colourless;
+-   multiply the number of drops added by 0.2 and record the result as ppm of combined chlorine.
+-   add the free available and combined chlorine values together to determine the total chlorine level in ppm.
+
+To test for combined chlorine using the EZ eXact kit:
+
+-   using the same sample from the free available chlorine test, place the cell cover onto the cell and press `ZERO/ON`;
+-   obtain the CL (DPD-3) test strip;
+-   press `READ` and simultaneously dip the strip in the sample while using a back and forth motion (2 strokes per second) until the timer says `1`;
+-   cap the cell and press `READ` to view the results as ppm of combined chlorine;
+-   press `READ` again to get the final result as ppm of total chlorine;
+-   rinse the cell before conducting further tests.
+
+**Step 5:** Repeat Steps 3-4 above, by adding more ammonia product the water and testing for free available and combined chlorine levels again. Determine and record how much ammonia you add.
+
+## Pool Water Disinfection Lab Assignment
+
+Write an individual lab report for this session by answering the following questions. Your report should be approximately 400-500 words.
+
+1.  Describe the water chemistry results you obtained from the City of Toronto tap water. Was the free available chlorine level within the regulated range as specified in [O. Reg. 565](https://www.ontario.ca/laws/regulation/900565)? Was the level within the recommended ranges as discussed in the course lecture materials? How did the two different two kits compare in their results?
+
+2.  What impact did adding the ammonia product have on the free available chlorine? What results did you obtain for combined chlorine and total chlorine? How do those values compare to [O. Reg. 565](https://www.ontario.ca/laws/regulation/900565) and the recommended levels discussed in the course lecture materials? Display your results in a table to show the impact of adding increasing amounts of ammonia on the results.
+
+3.  What do the above results tell you about the impact of bather load on water disinfection? If you obtained those results during a swimming pool inspection, what advice or recommendations would you give the operator?

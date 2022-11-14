@@ -1,0 +1,53 @@
+# Beach Water Quality 
+
+This lab will consist of two components. The first will be a self-guided, field-based assessment of a recreational water body, including taking a water sample. The second component will be an in-lab session to test your water sample for *E. coli* as a fecal indicator bacteria. 
+
+## Beach Environmental Assessment
+
+During this week, you will conduct a self-guided, remote visit to a recreational water body nearby your place of residence, or at nearby beach in Toronto. You can select any lake, river, or other natural surface water body that could be used for recreational purposes, including swimming, kayaking, fishing, boating, or other water activities. 
+
+For those who do not have easy or safe access to a recreational water body near your place of residence, some potential locations where you complete this activity near downtown Toronto include:
+
+1. [Sunnyside Beach](https://goo.gl/maps/DkAMPi3fBhFTPfU46)
+2. [Cherry Beach](https://goo.gl/maps/NXavU19y6FFNfLMv9)
+3. [Woodbine Beach](https://goo.gl/maps/79tF6y2RqrmnGBYk6) 
+
+When visiting your selected location, you will conduct a modified beach environmental assessment. Conducting a visual examination of the waterfront area, record information about the following:
+
+- Water clarity (e.g., clear, murky, cloudy/turbid)
+- Level of wave activity
+- Presence of wildlife (e.g., birds) or pets
+- Number of people present and any water activities engaged in
+- Potential pollution sources (e.g., sewage, stormwater or stream run-off, nearby boat docks, chemical or physical hazards)
+
+Additionally, check your phone's weather app or Environment Canada for the current weather conditions and record information on:
+
+- Air temperature
+- Wind speed 
+- Precipitation (including the previous day's precipitation level)
+
+Finally, somewhere where you can safely access the water, take a water sample using the provided water bottle and store under refrigeration conditions when you get home, or bring to lab on campus, to be tested next week. Additionally, take one photo of the water area where you took your sample to include in your lab report.
+
+![Woodbine Beach](images/woodbine.png)
+
+## Beach Water Quality Analysis Lab
+
+During the week, you will conduct your final lab activity. Remember to bring in your water sample from last week if not already provided to the lab for storage. You will now test your sample for *E. coli* levels. 
+
+To test for *E. coli*, you will use the **Peel Plate EC Test Kit**. Follow these procedures:
+
+1. Lift the tab on the back of peel plate and then peel the cover back (but do not completely remove it) to expose the culture plate.
+2. Holding a pipette vertically, pipette 1 mL of your water sample about 1-2 cm from the surface of the plate within 2-3 seconds.
+3. Reseal the adhesive cover back over top of the culture plate.
+4. Give your plate to the lab instructor for incubation (the plate will be incubated at 35°C for 24 hours). You will be emailed a photo of your peel plate, so you can later count the number of colonies.
+5. *E. coli* will appear as blue/purple colonies, while coliforms will appear as red colonies. Record the number of both types of colonies. 
+
+## Beach Water Quality Lab Assignment
+
+Write an individual lab report for this session by answering the following questions. Your report should be approximately 400-500 words. 
+
+1. How do your water sample *E. coli* results compare to Health Canada's **Beach Action Value** in the [Guidelines for Canadian Recreational Water Quality](https://www.canada.ca/en/health-canada/programs/consultation-guidelines-recreational-water-quality-fecal-contamination/document.html)? Based on these results, would the water body be considered safe for recreational water activities or should any follow-up actions be taken? Now assume that your coliforms were actually *E. coli*, in that case, to what extent would your conclusions about the safety of the water change or not?
+
+2. Report a summary of your beach environmental assessment findings. Based on this assessment, what are some potential sources of fecal or other (e.g., chemical, physical) contamination that might be a concern at this site? What recommendations would you make to reduce any potential recreational water illness risks at this location?
+
+

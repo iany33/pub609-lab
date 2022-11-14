@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "PUB609 Water Quality II Laboratory Manual"
+  author: "Ian Young"
+  date: "11/14/2022"
+  
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - chemistry.qmd
+    - disinfection.qmd
+    - inspection.qmd
+    - beach.qmd
+
+  page-footer:
+    left: |
+      PUB609 Water Quality II: Laboratory Manual.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  cover-image: images/pool.jpg
+  repo-url: https://github.com/iany33/pub609-lab
+    
+format:
+  html:
+    theme: sandstone
